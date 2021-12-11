@@ -1,0 +1,113 @@
+LABORATORIJSKA VJEZBA 7:
+
+1 - md : make new directory
+2 - cd dir : change current directory
+3 - cd.. : leave current directory to parent directory
+4 - dir : print all files from current directory
+0 - exit
+
+Choice number:
+1
+Enter name of directory you want to make:
+Petra
+
+1 - md : make new directory
+2 - cd dir : change current directory
+3 - cd.. : leave current directory to parent directory
+4 - dir : print all files from current directory
+0 - exit
+
+Choice number:
+2
+Enter name of a directory you want to enter:
+Petra
+You are currently in directory: Petra
+
+1 - md : make new directory
+2 - cd dir : change current directory
+3 - cd.. : leave current directory to parent directory
+4 - dir : print all files from current directory
+0 - exit
+
+Choice number:
+1
+Enter name of directory you want to make:
+faks
+
+1 - md : make new directory
+2 - cd dir : change current directory
+3 - cd.. : leave current directory to parent directory
+4 - dir : print all files from current directory
+0 - exit
+
+Choice number:
+1
+Enter name of directory you want to make:
+filmovi
+
+1 - md : make new directory
+2 - cd dir : change current directory
+3 - cd.. : leave current directory to parent directory
+4 - dir : print all files from current directory
+0 - exit
+
+Choice number:
+1
+Enter name of directory you want to make:
+slike
+
+1 - md : make new directory
+2 - cd dir : change current directory
+3 - cd.. : leave current directory to parent directory
+4 - dir : print all files from current directory
+0 - exit
+
+Choice number:
+2
+Enter name of a directory you want to enter:
+faks
+
+1 - md : make new directory
+2 - cd dir : change current directory
+3 - cd.. : leave current directory to parent directory
+4 - dir : print all files from current directory
+0 - exit
+
+Choice number:
+1
+Enter name of directory you want to make:
+strukture
+
+1 - md : make new directory
+2 - cd dir : change current directory
+3 - cd.. : leave current directory to parent directory
+4 - dir : print all files from current directory
+0 - exit
+
+Choice number:
+1
+Enter name of directory you want to make:
+racunalne
+
+1 - md : make new directory
+2 - cd dir : change current directory
+3 - cd.. : leave current directory to parent directory
+4 - dir : print all files from current directory
+0 - exit
+
+Choice number:
+1
+Enter name of directory you want to make:
+pzi
+
+1 - md : make new directory
+2 - cd dir : change current directory
+3 - cd.. : leave current directory to parent directory
+4 - dir : print all files from current directory
+0 - exit
+
+Choice number:
+4
+strukture
+racunalne
+pzi
