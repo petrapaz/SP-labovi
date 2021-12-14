@@ -1,9 +1,0 @@
-        LABORATORIJSKA VJEZBA 9:
-Inorder traversal of tree before changes:
- 98 94 92 90 97 99 94 98 91 94
-
-Inorder traversal of the resultant tree after summing nodes is:
-0 190 0 284 665 192 0 94 856 0
-C:\Users\petra\source\repos\strlab9\x64\Debug\strlab9.exe (process 37856) exited with code 0.
-To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
-Press any key to close this window . . .
