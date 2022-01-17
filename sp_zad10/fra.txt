@@ -1,0 +1,5 @@
+Paris 3000000
+Lyon 500000
+Strasbourg 120000
+Marseille 810000
+Lille 225000

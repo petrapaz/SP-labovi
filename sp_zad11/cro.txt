@@ -1,0 +1,8 @@
+Zagreb 800000
+Split 250000
+Rijeka 120000
+Pula 50000
+Sibenik 40000
+Nasice 10000
+Bjelovar 38000
+Cakovec 28000

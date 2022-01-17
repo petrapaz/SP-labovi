@@ -1,0 +1,4 @@
+Geneva 645000
+Zurich 404000
+Basel 172000
+Luzern 57000

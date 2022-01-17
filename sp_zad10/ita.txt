@@ -1,0 +1,5 @@
+Roma 2600000
+Verona 264000
+Ancona 101000
+Milano 1400000
+Venezia 268000
