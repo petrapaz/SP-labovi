@@ -1,1 +1,1 @@
-# strukture
+# strukture podataka
